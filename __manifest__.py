@@ -8,7 +8,7 @@
 Long description of module's purpose
     """,
 
-    'author': "My ITSAFE Sebastian",
+    'author': "My ITSAFE Sebastian y victor",
     'website': "https://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
